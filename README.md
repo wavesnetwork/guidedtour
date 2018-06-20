@@ -52,4 +52,4 @@ require_once('_introjs_hook.php');
 
 
 # License
-WAVES Visual Pathway is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
+WAVES Guided Tour is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
