@@ -11,7 +11,7 @@ The WAVES project combines skill sets of both academic and enterprise partners t
 
 Visit the following link:
 
-*Coming soon..*
+[WAVES Guided Tour Demo](http://olab.wavesnetwork.eu)
 
 
 # Installation
